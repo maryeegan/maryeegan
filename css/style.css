@@ -5,7 +5,7 @@ body {
   color: white;
 }
 
-#top-header {
+#outer-container {
   min-height: 100vh;
   padding: 0;
 }
