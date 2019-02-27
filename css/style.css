@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Balthazar');
+
+body {
+  font-family: 'Balthazar', serif;
+  color: white;
+}
+
+#top-header {
+  min-height: 100vh;
+  padding: 0;
+}
+
+#masthead {
+  width: 100%;
+  background-color: green;
+  text-align: center;
+  background-color: #6C7098;
+}
+
+#my-navbar {
+  width: 100%;
+  background-color: #6C7098;
+}
+
+#navbar-brand {
+  color: white;
+}
+
+#rest-of-body {
+  width: 100%;
+  background-color: #EEE2DC;
+}
